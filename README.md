@@ -30,7 +30,7 @@ I'm a **DevOps & Fullstack Software Engineer** with a passion for building scala
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/christian-koranteng)
 <!-- 🌐 [Portfolio](https://your-portfolio.com) -->
-- 📧 [your.email@example.com](mailto:devwithchris@gmail.com)
+- 📧 [korantengchristian@gmail.com](mailto:korantengchristian@gmail.com)
 
 > “Innovation is born from curiosity and driven by passion.”
 
